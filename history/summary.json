@@ -22,7 +22,7 @@
     "url": "https://workshop.sicher.id/",
     "icon": "https://favicons.githubusercontent.com/workshop.sicher.id",
     "slug": "wordpress",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
@@ -34,6 +34,7 @@
     "timeMonth": 3855,
     "timeYear": 2985,
     "dailyMinutesDown": {
+      "2022-04-24": 0,
       "2022-04-18": 33,
       "2022-03-27": 35,
       "2022-03-25": 25,
@@ -47,7 +48,7 @@
     "url": "https://keda-web-desain.com/",
     "icon": "https://favicons.githubusercontent.com/keda-web-desain.com",
     "slug": "wordpress",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
@@ -59,6 +60,7 @@
     "timeMonth": 3855,
     "timeYear": 2985,
     "dailyMinutesDown": {
+      "2022-04-24": 0,
       "2022-04-18": 33,
       "2022-03-27": 35,
       "2022-03-25": 25,
